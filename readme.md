@@ -16,6 +16,6 @@ We focus on the **Hindi monolingual track**, where both spoken queries and docum
 ## ⚙️ Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/username/sqclir-hindi-fire2025.git
+git clone https://github.com/Pranesh4950/sqclir-hindi-fire2025.git
 cd sqclir-hindi-fire2025
 pip install -r requirements.txt
